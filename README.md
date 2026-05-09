@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=3B82F6&height=120&section=header&text=INVINCIBLEAGAM&fontSize=60&fontAlignY=50&desc=Codeforces%20Specialist&descAlignY=80&descAlign=50" alt="Header" />
-</div>
-
-<h2 align="center">Hi 👋, I'm Agam Manash Roy</h2>
+<br/>
+<h1 align="center">Hi 👋, I'm Agam Manash Roy</h1>
 <h4 align="center">M.Tech CSE Student @ IIIT Bangalore | Backend & Systems Engineer</h4>
 
 ---
@@ -10,8 +7,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=transparent&hide_border=true&title_color=3B82F6" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=radical" alt="GitHub Streak" height="195" />
 </div>
 
 ### 🚀 About Me
