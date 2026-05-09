@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/agam-manash-roy-04b739292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/AgamManashRoy/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/agam_roy"><img src="https://img.shields.io/badge/Codeforces-Specialist-1f8bcb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/agam_roy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=radical" alt="GitHub Streak" height="195" />
 </div>
 
