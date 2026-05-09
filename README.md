@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm currently pursuing my **M.Tech in Computer Science at IIIT Bangalore (2023–25)**, focusing on **Backend Engineering, Low-Latency Systems, and Distributed Architectures**.
+I'm currently pursuing my **Integrated M.Tech in Computer Science at IIIT Bangalore (2023–2028)**, focusing on **Backend Engineering, Low-Latency Systems, and Distributed Architectures**.
 
 As a **Codeforces Specialist**, I bridge the gap between competitive programming problem-solving and real-world system design, building high-concurrency Java/Spring Boot backends and nanosecond-precision C++ engines.
 
@@ -27,7 +27,7 @@ As a **Codeforces Specialist**, I bridge the gap between competitive programming
 
 ### 🎓 Education
 
-🎓 **IIIT Bangalore — M.Tech CSE (2023–25)**
+🎓 **IIIT Bangalore — Integrated M.Tech CSE (2023–2028)**
 Focused on **Systems, Algorithms, and Backend Engineering**.
 
 ---
