@@ -1,6 +1,6 @@
 <br/>
 <h1 align="center">Hi 👋, I'm Agam Manash Roy</h1>
-<h4 align="center">M.Tech CSE Student @ IIIT Bangalore | Backend & Systems Engineer</h4>
+<h4 align="center">Integrated M.Tech CSE Student @ IIIT Bangalore | Backend & Systems Engineer</h4>
 
 ---
 
