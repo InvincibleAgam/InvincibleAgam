@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=radical" alt="GitHub Streak" height="195" />
 </div>
 
