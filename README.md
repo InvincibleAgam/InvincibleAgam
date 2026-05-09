@@ -1,62 +1,79 @@
-<h1 align="center">Hi, I'm Agam Manash Roy 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=3B82F6&height=120&section=header&text=INVINCIBLEAGAM&fontSize=60&fontAlignY=50&desc=Codeforces%20Specialist&descAlignY=80&descAlign=50" alt="Header" />
+</div>
 
-<p align="center">
-  <em>👨‍💻 Integrated M.Tech in Computer Science @ IIIT Bangalore</em><br/>
-  <em>🚀 Bridging low-latency C++ systems with high-concurrency Java/Spring Boot backends.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/agam-manash-roy-04b739292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/AgamManashRoy/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/agam_roy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
-</p>
+<h2 align="center">Hi 👋, I'm Agam Manash Roy</h2>
+<h4 align="center">M.Tech CSE Student @ IIIT Bangalore | Backend & Systems Engineer</h4>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **high-performance systems and backend engineering**
-- 🌱 I’m currently learning **advanced distributed systems and concurrency**
-- 👯 I’m looking to collaborate on **backend and system-level projects**
-- 💬 Ask me about **C/C++, Java, Spring Boot, or Competitive Programming**
-
----
-
-## 📊 Coding Profiles & Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/AgamManashRoy/">
-    <img src="https://leetcard.jacoblin.cool/AgamManashRoy?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="195" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=transparent&hide_border=true&title_color=3B82F6" alt="GitHub Streak" height="195" />
+</div>
+
+### 🚀 About Me
+
+I'm currently pursuing my **M.Tech in Computer Science at IIIT Bangalore (2023–25)**, focusing on **Backend Engineering, Low-Latency Systems, and Distributed Architectures**.
+
+As a **Codeforces Specialist**, I bridge the gap between competitive programming problem-solving and real-world system design, building high-concurrency Java/Spring Boot backends and nanosecond-precision C++ engines.
+
+- 🎓 **Currently learning:** Advanced Distributed Systems, Concurrency, and System Design
+- 🎯 **Current goals:** Build robust scalable backends and master low-level optimization
+- 💻 **Portfolio/Profiles:** [LeetCode](https://leetcode.com/u/AgamManashRoy/) | [Codeforces](https://codeforces.com/profile/agam_roy)
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/agam-manash-roy-04b739292)
+- 💬 **Ask me about:** C/C++, Java, Spring Boot, MongoDB, or Competitive Programming
+
+---
+
+### 🎓 Education
+
+🎓 **IIIT Bangalore — M.Tech CSE (2023–25)**
+Focused on **Systems, Algorithms, and Backend Engineering**.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,spring,mongodb,mysql,linux,git,idea,postman" />
   </a>
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=InvincibleAgam&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvincibleAgam&theme=radical" alt="GitHub Streak" height="195" />
-</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 📌 Featured Projects
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+🎬 **Movie Recommendation System**
+*REST API backend for a movie recommendation engine*
+- Built with **Java, Spring Boot, and MongoDB**
+- Engineered robust RESTful endpoints for efficient data retrieval
+- Designed scalable database schemas for movie and user data
 
-### 🌐 Backend & Data
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+📈 **OrderBookSimulation**
+*Production-structured C++ matching engine*
+- Implemented **price-time priority** and multi-symbol support
+- Engineered pre-trade risk management and IOC/FOK order types
+- Achieved **nanosecond-precision** latency benchmarking
 
-### ⚙️ Systems & Architecture
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Multithreading](https://img.shields.io/badge/Multithreading-1A1918?style=for-the-badge&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logoColor=white)
+📊 **NASA HTTP Log Analysis (NoSQL Systems)**
+*Multi-pipeline ETL framework in Java*
+- Built 4 diverse pipelines: **MapReduce, MongoDB, Pig, and Hive**
+- Processed semi-structured log data with shared logical batching
+- Engineered an automated cross-pipeline **correctness checker**
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/agam-manash-roy-04b739292">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/InvincibleAgam">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</div>
